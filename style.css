@@ -1,1 +1,16 @@
+body {
+    background-color: brown;
+    color:white;
+  font-family: "Lora", serif;
+  display: flex;
+  justify-contet: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
+}
 
+button {
+    background-color:brown
+    color:blue
+    font-family: "Bai Jamjuree", sans-serif;
+}
